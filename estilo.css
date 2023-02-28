@@ -81,8 +81,8 @@ footer{
 }
 .opcion .letra{
     background-color: #580078;
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     font-size: 20px;
     font-weight: bold;
     color: #fff;
@@ -94,6 +94,7 @@ footer{
 }
 .opcion .nombre{
     background: #fff; 
+    width: 90%;
     font-size: 15px;
     position: absolute;
     margin-left: 30px;
